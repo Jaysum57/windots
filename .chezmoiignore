@@ -1,0 +1,10 @@
+# Ignore repo documentation
+README.md
+LICENSE
+
+# Ignore scripts you don’t want deployed
+<!-- scripts/ -->
+<!-- dev-notes.md -->
+
+# Ignore temporary files
+*.tmp

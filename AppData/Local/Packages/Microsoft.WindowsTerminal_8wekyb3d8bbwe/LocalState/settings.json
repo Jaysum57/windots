@@ -72,7 +72,8 @@
                 "font": 
                 {
                     "face": "JetBrainsMono Nerd Font Propo",
-                    "size": 12
+                    "size": 12,
+                    "weight": "normal"
                 },
                 "guid": "{11f3cd83-3aab-4b0e-8174-17dee2932491}",
                 "hidden": false,
